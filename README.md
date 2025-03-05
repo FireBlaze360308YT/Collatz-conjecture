@@ -5,3 +5,7 @@ i was fascinated by this mathematical conjecture and decided to use my new progr
 
 #This repository will only contain the python file
 #I know the code is not perfect and could be improved, i'm looking foward to do it!
+
+
+## Last Update (05/03/25):
+A lot lighter than before, and faster, improved redability
